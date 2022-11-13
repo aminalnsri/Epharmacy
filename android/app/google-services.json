@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950555856235",
+    "project_id": "my-ameeen",
+    "storage_bucket": "my-ameeen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950555856235:android:8b0ac5fa3264a2b8c9502e",
+        "android_client_info": {
+          "package_name": "com.example.care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950555856235-uvcuq011nht714tt4jppc87ujgbcbper.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5LI3owvXYJ5aRRPHz8ftq8CZOBWGBZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950555856235-uvcuq011nht714tt4jppc87ujgbcbper.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
